@@ -29,6 +29,7 @@ blockquote{
   margin: 10px 0;
   padding-left: 1rem;
   border-left: 3px solid #151B54;
+  font-style: italic;
 }
 
 b {
