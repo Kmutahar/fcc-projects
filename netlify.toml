@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/tribute-page/"
+  to = "/legacy/tribute-page/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/personal-portfolio/"
+  to = "/legacy/personal-portfolio/"
+  status = 301
+  force = true
